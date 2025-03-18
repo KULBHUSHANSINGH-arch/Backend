@@ -1,13 +1,9 @@
 const mysql = require("mysql2");
-
 DB_HOST='127.0.0.1'
 DB_USER='root'
 DB_PASSWORD='SurjeetSingh@2003'
 DB_NAME='kul'
 DB_PORT=3306
-
-
-
 
 
 
